@@ -1,0 +1,47 @@
+HTC Wildfire S Kernel Source for Android 4.0+
+
+This kernel includes these options so far
+
+
+CM9/10, Paranoid Android 2.54 and AOKP Beta 1
+
+Govs:
+Superbad
+Skywalker
+Intellidemand
+Lagfree
+Lulzactive
+Lazy
+Brazilionwax
+Smartass
+SmartassV2
+SmartassH3 - Default
+Minmax
+Smoothass
+Savagedzen
+InteractiveX
+Conservative
+OndemandX
+Ondemand
+Userspace
+Powersave
+LionHeart
+Performance
+
+Shedulers:
+Noop
+Deadline
+CFQ
+BFQ
+VR
+SIO - Default
+
+Extra Features:
+Zram
+
+More Coming Soon
+
+
+To get the same setup as me cd to the kernel dir in terminal and run this command
+
+mv config.txt .config
