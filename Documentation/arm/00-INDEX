@@ -32,5 +32,3 @@ memory.txt
 	- description of the virtual memory layout
 nwfpe/
 	- NWFPE floating point emulator documentation
-swp_emulation
-	- SWP/SWPB emulation handler/logging description
