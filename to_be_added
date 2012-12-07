@@ -1,0 +1,6 @@
+zcache
+frontswap
+cleancache
+tweak zram to use snappy
+memory tweaks
+fscache
