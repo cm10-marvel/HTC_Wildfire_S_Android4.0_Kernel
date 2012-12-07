@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux kernel version: 2.6.35.13
-# Fri Nov 23 20:46:36 2012
+# Fri Dec  7 00:28:32 2012
 #
 CONFIG_ARM=y
 CONFIG_SYS_SUPPORTS_APM_EMULATION=y
@@ -1779,6 +1779,8 @@ CONFIG_ANDROID_LOW_MEMORY_KILLER=y
 #
 # CONFIG_IIO is not set
 CONFIG_ZRAM=y
+CONFIG_SNAPPY_COMPRESS=y
+CONFIG_SNAPPY_DECOMPRESS=y
 # CONFIG_BATMAN_ADV is not set
 # CONFIG_FB_SM7XX is not set
 
